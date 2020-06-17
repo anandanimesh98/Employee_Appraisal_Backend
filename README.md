@@ -1,5 +1,3 @@
-# mean_crud_api
-
 Usage
 
 Install the dependencies

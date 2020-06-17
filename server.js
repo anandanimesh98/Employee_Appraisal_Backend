@@ -14,7 +14,7 @@ mongoose.connect(config)
 var app = express();
 var port = 3000 ;
 app.get('/', function(req, res){
-    res.send("Hello from sikandar...");
+    res.send("Hello ");
 });
 var router = require('./routes');
 //middleware 
